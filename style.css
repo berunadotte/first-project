@@ -6,3 +6,8 @@ li {
   color: red;
   font-size: 20px;
 }
+
+p {
+  font-size: 100px;
+  color: violet;
+}
