@@ -10,4 +10,5 @@ li {
 p {
   font-size: 100px;
   color: violet;
+  text-shadow: 1px;
 }
